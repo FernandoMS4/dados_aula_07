@@ -1,3 +1,6 @@
+
+##### EXERCÍCIOS #####
+
 #1: Calcular Média de Valores em uma Lista
 
 lista: list = ["1","23",'34','12','40',30]
